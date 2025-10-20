@@ -163,8 +163,12 @@ body {
     flex: 1;
     flex-direction: column;        
     justify-content: center;    
-    align-items: flex-start;
+    align-items: center;
     padding-left: 55px;
+}
+
+.section--bottom--left h1 {
+    font-weight: 500;
 }
 
 .section--bottom--left--title {
@@ -174,11 +178,7 @@ body {
 }
 
 .section--bottom--left--text {
-    width: 240px;
-}
-
-.section--bottom--left h1 {
-    font-weight: 500;
+    width: 250px;
 }
 
 .section--bottom--left--text p {
