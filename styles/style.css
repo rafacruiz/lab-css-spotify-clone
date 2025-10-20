@@ -164,7 +164,7 @@ body {
     flex-direction: column;        
     justify-content: center;    
     align-items: center;
-    padding-left: 55px;
+    
 }
 
 .section--bottom--left h1 {
@@ -174,7 +174,7 @@ body {
 .section--bottom--left--title {
     border-bottom: 3px solid #FFF;
     padding-bottom: 8px;
-    max-width: 100%;
+    width: 400px;
 }
 
 .section--bottom--left--text {
@@ -203,7 +203,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    padding-right: 55px;
+    
 }
 
 .section--bottom--img--app img {
